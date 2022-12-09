@@ -3,7 +3,7 @@ import os
 import fitz
 import re
 
-api_keys = ["20846050d6660b2e597d2d523f82f7285f4bc22ad058529f93d2913a34e94269"] #add your own keys(comma separated strings, recommended at least 2 keys)
+api_keys = [""] #add your own keys(comma separated strings, recommended at least 2 keys)
 
 key_count = 0   #don't change this
 
