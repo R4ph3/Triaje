@@ -2,7 +2,7 @@ import requests
 import json,time
 import argparse
 
-KEY="debea831911d6acfc5b757b6741499b91890f0e6c10c5e931ecee50008ffed99609bacb9532a744b"
+KEY=""
 file = "target-ips.txt"
 def send_req(ip, file):
     url = 'https://api.abuseipdb.com/api/v2/check'
